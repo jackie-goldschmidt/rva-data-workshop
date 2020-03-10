@@ -81,7 +81,7 @@ See also the list of
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License, as can be seen in the [LICENSE](./LICENSE) file.
 
 ## Acknowledgments
 
